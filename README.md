@@ -1,3 +1,2 @@
 # bash-practice
-bash exercises, because they are nessassary
-personal cheat sheet
+a nessassary personal cheat sheet
