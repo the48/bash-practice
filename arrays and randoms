@@ -1,0 +1,4 @@
+P=(48 4 7)
+
+echo ${P[RANDOM % 3]}
+# replace 3 with the length of the array generate with [@]
